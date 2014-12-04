@@ -40,9 +40,9 @@ Total 5229 (delta 3157), reused 4048 (delta 2719)
 
 To https://github.com/svesipov/hh_git_task2_without_frontik
 
- * [new branch]      master -> master
+[new branch]      master -> master
  
- > cd ..
+> cd ..
  
 > git clone https://github.com/hhru/frontik hh_git_task2_with_frontik
 
@@ -86,4 +86,4 @@ Total 2920 (delta 1276), reused 1263 (delta 1101)
 
 To https://github.com/svesipov/hh_git_task2_with_frontik
 
- * [new branch]      master -> master
+[new branch]      master -> master
